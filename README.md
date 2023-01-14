@@ -1,9 +1,11 @@
 # Professor do Curso:
 - Nelio Alves
 # curso de logica de programação
-- curso de logica Python
-- curso de logica C e C++
-- curso de logica Java
+- lógica Python
+- lógica C
+- Lógica C++
+- Lógica C#
+- Lógica Java
 # Linguagens:
 - C, C++, Python, C# e Java
 # Link do Curso: 
